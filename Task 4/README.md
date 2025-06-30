@@ -25,7 +25,7 @@ No external dataset was required for this task. The chatbot uses the pretrained 
   **Response:** A sore throat can be caused by a variety of factors, including viral infections, bacterial infections, allergies, and irritation. The most common causes of a sore throat are viral infections, such as the common cold or flu. Other potential causes include strep throat, tonsillitis, and mononucleosis. It's important to note that while a sore throat can be uncomfortable, it is generally not a serious condition and can usually be treated with rest, fluids, and over-the-counter pain relievers. If you're experiencing a severe sore throat or have other symptoms, it's always a good idea to consult with a healthcare professional.
 
 - **Input:** Is paracetamol safe for children?  
-  **Response:** Mentions general safety in proper doses but avoids giving dosage; recommends consulting a pediatrician.
+  **Response:** Paracetamol is generally considered safe for children when used as directed. However, it's important to always follow the recommended dosage and consult a doctor if you have any concerns. Overuse or excessive dosage can lead to side effects like liver damage.
 
 ## Key Results and Findings
 - **Mistral-7B-Instruct** performed well for short, general queries, maintaining tone and clarity with engineered prompts.
