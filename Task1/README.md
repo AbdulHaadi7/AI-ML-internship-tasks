@@ -43,6 +43,6 @@ Perform exploratory data analysis on the classic Iris dataset to understand:
 
 ---
 
-## ✅ Outcome
+## Outcome
 Built strong EDA and visualization skills. This task serves as a foundation for understanding how data trends and distributions affect model performance.
 
