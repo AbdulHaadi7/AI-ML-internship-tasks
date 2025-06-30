@@ -27,7 +27,7 @@ No external dataset was required for this task. The chatbot uses the pretrained 
 - **Input:** Is paracetamol safe for children?  
   **Response:** Mentions general safety in proper doses but avoids giving dosage; recommends consulting a pediatrician.
 
-## ✅ Key Results and Findings
+## Key Results and Findings
 - **Mistral-7B-Instruct** performed well for short, general queries, maintaining tone and clarity with engineered prompts.
 - Prompt structure significantly influenced safety and helpfulness.
 - Hugging Face API made it easy to test open-source LLMs without GPU setup.
